@@ -1,0 +1,11 @@
+body {
+  background-color: aquamarine;
+  color: azure;
+  font-size: 2em;
+  max-width: 1000px;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+}
