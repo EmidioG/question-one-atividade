@@ -1,11 +1,14 @@
 body {
-  background-color: aquamarine;
+  background-color: rgb(59, 34, 55);
   color: azure;
   font-size: 2em;
   max-width: 1000px;
-  margin: auto;
+  margin: 40px auto;
+  font-family: MontSerrat;
 }
 
 img {
   max-width: 100%;
+  border-radius: 5px;
+  box-shadow: 40px 16px rgb(50, 30, 55);
 }
